@@ -74,6 +74,7 @@ public class INSTRUCTIONS {
             }
         }
 
+        //CONVERT TO ASCII
         //Loops through username
         System.out.println();
         for (int i = 0; i < user.length(); i++) {
