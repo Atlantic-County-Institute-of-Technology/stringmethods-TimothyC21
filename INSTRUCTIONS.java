@@ -1,5 +1,6 @@
 // Timothy Creelman
 // 12-4-2023
+//String Methods
 
 import java.util.Scanner;
 
